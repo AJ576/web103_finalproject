@@ -6,7 +6,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List each table in your diagram]
 
-User, UserStory, UserStreak, MoodEntry, JournalEntry, GratitudeEntry,  VirtualHug, EmojiReaction, BreathingExercise, Affirmation, M0tivationalQuote
+User, UserStory, UserStreak, MoodEntry, JournalEntry, GratitudeEntry,  VirtualHug, EmojiReaction, BreathingExercise, Affirmation, MotivationalQuote
 
 ## Add the Entity Relationship Diagram
 
