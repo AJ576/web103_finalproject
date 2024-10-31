@@ -16,12 +16,12 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-The figma board was made nicely
+The team collaborated to create amazing figma designs.
 
 ### 2. What were some challenges your group faced in this unit?
 
-Becoming familiar with Figma.
+Some challenges we had was becoming familiar with Figma.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-No clue?
+We would like to learn more about creating custom animations.
