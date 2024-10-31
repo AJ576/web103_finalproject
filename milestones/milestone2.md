@@ -20,7 +20,7 @@ The figma board was made nicely
 
 ### 2. What were some challenges your group faced in this unit?
 
-Existential dread?
+Becoming familiar with Figma.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
