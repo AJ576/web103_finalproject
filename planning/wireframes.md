@@ -6,16 +6,15 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+## Wireframe 1: [Jounral Page]
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+[👉🏾👉🏾👉🏾 [include wireframe 1](https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=0-1)]
 
-## Wireframe 2: [page title]
+## Wireframe 2: [Emotional Dashboard]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+[👉🏾👉🏾👉🏾 [include wireframe](https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=1-2) 2]
 
-## Wireframe 3: [page title]
+## Wireframe 3: [Breathing Excersises]
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+[👉🏾👉🏾👉🏾 [include wireframe](https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=5-6) 3]
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
