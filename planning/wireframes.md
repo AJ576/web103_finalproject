@@ -8,13 +8,13 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: [Jounral Page]
 
-[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=0-1 ]
+[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=0-1 ]⭐
 
 ## Wireframe 2: [Emotional Dashboard]
 
-[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=1-2]
+[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=1-2]⭐
 
 ## Wireframe 3: [Breathing Excersises]
 
-[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=5-6]
+[👉🏾👉🏾👉🏾 https://www.figma.com/design/RtALE8zNeLSvGnfIlQHzvI/UPLIFT?node-id=5-6]⭐
 
