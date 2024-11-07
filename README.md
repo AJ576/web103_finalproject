@@ -30,11 +30,11 @@ This feature allows users to visualize their mood patterns over time. It provide
 
 [gif goes here]
 
-### Daily Journal
+### ✅Daily Journal
 
 The Daily Journal offers users a private space to express their thoughts, feelings, and experiences. It serves as a personal mental wellness tool where users can reflect on their day, track their emotions, and build a journaling habit over time.
 
-[gif goes here]
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1aWxzM2xuaGU0Y2dhaGVsdDd2MXJ1dGU3aXBnOWR0ZzJoeWpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mfSItAQTZEvgjomuJl/giphy.gif' alt='Video Walkthrough' />
 
 ### Journal Streaks
 
@@ -90,11 +90,11 @@ This feature allows users to contribute to a personal gratitude word cloud, wher
 
 [gif goes here]
 
-### OAuth Authentication
+### ✅OAuth Authentication
 
 OAuth authentication ensures secure and seamless login and registration for users, providing a reliable and protected experience.
 
-[gif goes here]
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1aWxzM2xuaGU0Y2dhaGVsdDd2MXJ1dGU3aXBnOWR0ZzJoeWpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mfSItAQTZEvgjomuJl/giphy.gif' alt='Video Walkthrough' />
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
