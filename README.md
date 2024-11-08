@@ -94,7 +94,7 @@ This feature allows users to contribute to a personal gratitude word cloud, wher
 
 OAuth authentication ensures secure and seamless login and registration for users, providing a reliable and protected experience.
 
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1aWxzM2xuaGU0Y2dhaGVsdDd2MXJ1dGU3aXBnOWR0ZzJoeWpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mfSItAQTZEvgjomuJl/giphy.gif' alt='Video Walkthrough' />
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVvdmxxNHIycGY2ZXE5azg0Nmhob3RvdHZnNGl1ejhrOXg1M2NzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAEaFDzRrUwHHrJ7tt/giphy.gif' alt='Video Walkthrough' />
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
