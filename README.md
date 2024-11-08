@@ -34,7 +34,7 @@ This feature allows users to visualize their mood patterns over time. It provide
 
 The Daily Journal offers users a private space to express their thoughts, feelings, and experiences. It serves as a personal mental wellness tool where users can reflect on their day, track their emotions, and build a journaling habit over time.
 
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc1aWxzM2xuaGU0Y2dhaGVsdDd2MXJ1dGU3aXBnOWR0ZzJoeWpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mfSItAQTZEvgjomuJl/giphy.gif' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG42dGh3aG1hMmRrNnk5anM0OG9hbDh4anZpb3c1bGRyZHkzaGd5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eUNH1Sg73MD9bh38B/giphy.gif' alt='Video Walkthrough' />
 
 ### Journal Streaks
 
