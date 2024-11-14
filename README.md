@@ -24,11 +24,11 @@ Backend:
 
 ## Features
 
-### Emotional Trend Dashboard
+### ✅Emotional Trend Dashboard
 
 This feature allows users to visualize their mood patterns over time. It provides insights into emotional trends, helping users identify shifts and patterns in their mental state to better understand themselves.
 
-[gif goes here]
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3c2Vva3hhYnpkZHA2YW1ybHYzemY4dnRrcnd2cXM2eGQwd2t6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p348IETguRiYfaWaXU/giphy.gif' alt='Video Walkthrough' />
 
 ### ✅Daily Journal
 
@@ -48,11 +48,12 @@ This feature allows users to send virtual hugs to one another, providing emotion
 
 [gif goes here]
 
-### Anonymous One-Day User Mood Sharing
+### ✅Anonymous One-Day User Mood Sharing
 
 Users can anonymously share their mood for the day, which can be reacted to by others with only positive and supportive emojis. This feature encourages users to open up without fear of judgment, receiving uplifting responses from the community and fostering a sense of support and understanding.
 
-[gif goes here]
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem02cGs3YzJsZXNyZHJuNmxybWp1bTI5d3Awem56NHFndDJ1ZmdsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8js0N0jqO73DSkPfR/giphy.gif' alt='Video Walkthrough' />
+
 
 ### User Mood Toxic Filtering System
 
@@ -78,11 +79,12 @@ This community-driven feature displays words of gratitude contributed by users g
 
 [gif goes here]
 
-### Breathing Exercises Page
+### ✅Breathing Exercises Page
 
 The Breathing Exercises Page guides users through various breathing techniques designed to reduce stress and promote calmness. It offers a range of exercises tailored to different moods, helping users manage anxiety and find peace.
 
-[gif goes here]
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXloN20yNnN4eDNjMmd1NjdmeG9zcjEyaDVrOGVoN2ZxN3o0eTM3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwzmjIfdIrsFEulpN5/giphy.gif' alt='Video Walkthrough' />
+
 
 ### Personal Gratitude Word Cloud
 
@@ -100,4 +102,8 @@ OAuth authentication ensures secure and seamless login and registration for user
 
 ## Installation Instructions
 
-[instructions go here]
+```bash
+npm install
+npm run dev
+Open http://localhost:3000/
+```
