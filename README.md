@@ -40,13 +40,14 @@ The Daily Journal offers users a private space to express their thoughts, feelin
 
 Journal Streaks encourages users to develop a consistent journaling habit. It tracks consecutive daily entries, motivating users to reflect regularly. The feature highlights streak milestones to keep users engaged and inspired to maintain their journaling routine.
 
-[gif goes here]
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlvMm5nZmV3bGJ5djE2bGF6ajd4MTFmeHFqMmN6c2pmYnYxcGtqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ej3dBHSPZXLssoiEfb/giphy.gif' alt='Video Walkthrough' />
+
 
 ### Send Virtual Hug
 
 This feature allows users to send virtual hugs to one another, providing emotional support in times of need. It's a simple, heartwarming gesture that promotes compassion and connection among users.
 
-[gif goes here]
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJuY3h0Ym5odXA1aHFpeWd4ZzAwcDFxeTdkNDlvbzJjYmRyamlpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2s3MCFflNXHFbVwzmJ/giphy.gif' alt='Video Walkthrough' />
 
 ### ✅Anonymous One-Day User Mood Sharing
 
@@ -59,25 +60,14 @@ Users can anonymously share their mood for the day, which can be reacted to by o
 
 This feature filters out toxic or negative moods from being shared, ensuring a positive and supportive environment for all users.
 
-[gif goes here]
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG42d2NtOWJ5eHNvempsaXJnOHg2dzVxbmVrOGRlcTZmMzZoejNoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkuZrxU3AvfL0NFYdB/giphy.gif' alt='Video Walkthrough' />
 
 ### Affirmations
 
 The Affirmations feature delivers daily positive statements to users, providing encouragement and fostering a sense of hope and optimism. Users receive affirmations to start their day with positivity, helping to shape a brighter mindset.
 
-[gif goes here]
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h5ZmZzMDl0eHYyanJ5ZWtvMnJkMjB1M3B1cXVleTV0Yjc2amVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nW0eyDysVwC2BuOxuR/giphy.gif' alt='Video Walkthrough' />
 
-### Motivational Quotes
-
-Motivational Quotes offers users daily doses of inspiration through curated quotes. These quotes serve as a source of encouragement and mental upliftment.
-
-[gif goes here]
-
-### Global Gratitude Word Cloud
-
-This community-driven feature displays words of gratitude contributed by users globally. It fosters a sense of collective appreciation, where users can contribute their own words of gratitude and view what others are thankful for.
-
-[gif goes here]
 
 ### ✅Breathing Exercises Page
 
@@ -90,15 +80,13 @@ The Breathing Exercises Page guides users through various breathing techniques d
 
 This feature allows users to contribute to a personal gratitude word cloud, where they can visually reflect on the things they're thankful for and cultivate a positive mindset.
 
-[gif goes here]
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFvNTdiNzc2aWdhMnVyMTU3MW53M3JreHB5d3BlYW1sN2o2NDV2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7Qay0f9ia4ziHwvcZ/giphy.gif' alt='Video Walkthrough' />
 
 ### ✅OAuth Authentication
 
 OAuth authentication ensures secure and seamless login and registration for users, providing a reliable and protected experience.
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG42dGh3aG1hMmRrNnk5anM0OG9hbDh4anZpb3c1bGRyZHkzaGd5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eUNH1Sg73MD9bh38B/giphy.gif' alt='Video Walkthrough' />
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
 
